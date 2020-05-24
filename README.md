@@ -12,3 +12,5 @@ This Python 3 scripts creates collections of:
 
 If you wish to get the images without running the script, pregenerated images are at: 
   https://erellaz.com/gratings
+  
+![Grating sampler](gratings.png)
