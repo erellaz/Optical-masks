@@ -11,4 +11,4 @@ This Python 3 scripts creates collections of:
 - Color Schierlien gratings
 
 If you wish to get the images without running the script, pregenerated images are at: 
-  http://erellaz.com/gratings
+  https://erellaz.com/gratings
