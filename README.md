@@ -5,10 +5,14 @@ Alternativly, they can be printed on a 24x36 slide.
 The script below generates high definition images in PNG format, ready to be sent to a professional slide printer shop, as 24x26 slides.
 
 This Python 3 scripts creates collections of:
+- A Knife Edge
 - Ronchi gratings
 - Pin Holes
-- Slit
+- Slits
+- Double slits
 - Color Schierlien gratings
+- Obstructions
+- Color filters
 
 If you wish to get the images without running the script, pregenerated images are at: 
   https://erellaz.com/gratings
